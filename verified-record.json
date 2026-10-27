@@ -1,6 +1,6 @@
 {
   "student": "vrboddhula",
-  "generatedAt": "2026-10-27T01:50:22.9864819Z",
+  "generatedAt": "2026-10-27T01:53:04.9435689Z",
   "verifiedBy": "techmonster-dev",
   "tracks": [
     {
@@ -58,6 +58,14 @@
       "status": "on-track",
       "verifiedCount": 0,
       "detailUrl": "./frontend/verified-record.json"
+    },
+    {
+      "track": "hft-low-latency",
+      "trackTitle": "HFT & Low-Latency Engineering in C++",
+      "progressPct": 0,
+      "status": "on-track",
+      "verifiedCount": 0,
+      "detailUrl": "./hft-low-latency/verified-record.json"
     }
   ],
   "manualEntries": []
