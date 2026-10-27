@@ -18,6 +18,7 @@
 | Parallel Computing & Performance (CPU to GPU) | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./parallel-performance/README.md) |
 | Python Core (Beginner to Advanced) | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./python-core/README.md) |
 | Python Web & Backend Engineering | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./python-web/README.md) |
+| Quant Trading — Mental Math, Probability & Market-Making | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./quant-trader/README.md) |
 
 ## Recent Verified Projects
 
