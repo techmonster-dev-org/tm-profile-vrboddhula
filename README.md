@@ -17,6 +17,7 @@
 | Math & Reasoning for Systems and Quant (Zero to Confident) | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./math-foundations/README.md) |
 | Parallel Computing & Performance (CPU to GPU) | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./parallel-performance/README.md) |
 | Python Core (Beginner to Advanced) | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./python-core/README.md) |
+| Python Web & Backend Engineering | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./python-web/README.md) |
 
 ## Recent Verified Projects
 
