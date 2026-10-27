@@ -11,6 +11,7 @@
 | AI-Native / LLM Application Engineering | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./ai-native-llm/README.md) |
 | C & Systems Programming (Zero to the Kernel) | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./c-systems/README.md) |
 | C++ From Zero (Absolute Beginner to Modern C++) | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./cpp-from-zero/README.md) |
+| Data Structures & Algorithms in C++ (Interview-Grade) | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./dsa-cpp/README.md) |
 
 ## Recent Verified Projects
 
