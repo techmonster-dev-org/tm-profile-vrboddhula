@@ -1,6 +1,6 @@
 {
   "student": "vrboddhula",
-  "generatedAt": "2026-10-27T01:45:46.8628001Z",
+  "generatedAt": "2026-10-27T01:48:01.6705600Z",
   "verifiedBy": "techmonster-dev",
   "tracks": [
     {
@@ -42,6 +42,14 @@
       "status": "on-track",
       "verifiedCount": 0,
       "detailUrl": "./cpp-from-zero/verified-record.json"
+    },
+    {
+      "track": "dsa-cpp",
+      "trackTitle": "Data Structures & Algorithms in C++ (Interview-Grade)",
+      "progressPct": 0,
+      "status": "on-track",
+      "verifiedCount": 0,
+      "detailUrl": "./dsa-cpp/verified-record.json"
     }
   ],
   "manualEntries": []
