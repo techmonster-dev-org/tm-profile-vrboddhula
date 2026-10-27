@@ -1,8 +1,16 @@
 {
   "student": "vrboddhula",
-  "generatedAt": "2026-10-27T01:40:49.9928273Z",
+  "generatedAt": "2026-10-27T01:44:19.2740122Z",
   "verifiedBy": "techmonster-dev",
   "tracks": [
+    {
+      "track": "ai-chip-ml-systems",
+      "trackTitle": "AI-Chip & ML-Systems Engineering (GPU Kernels to Compilers)",
+      "progressPct": 0,
+      "status": "on-track",
+      "verifiedCount": 0,
+      "detailUrl": "./ai-chip-ml-systems/verified-record.json"
+    },
     {
       "track": "ai-ml-python",
       "trackTitle": "AI / ML with Python",
