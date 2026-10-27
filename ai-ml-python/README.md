@@ -63,7 +63,7 @@
 
 | Project | Score | Understanding | Reviewed | Feedback |
 |---|---|---|---|---|
-| Combine tool use, the agentic loop, and a system prompt into a small autonomous agent that plans, calls multiple tools across turns, and produces a final answer — with guardrails. | ⬜ Not started | — | — | — |
+| Combine tool use, the agentic loop, and a system prompt into a small autonomous agent that plans, calls multiple tools across turns, and produces a final answer — with guardrails. | ⬜ Not started | ❌ Failed | 2026-10-27 | [→](https://github.com/techmonster-dev-org/tm-student-vrboddhula-ai-ml-python/issues/4) |
 | Make your first calls to the model with your model provider's SDK: messages, system prompts, multi-turn conversations, model/token parameters, and reading the response and usage. | ⬜ Not started | — | — | — |
 | Measure LLM quality systematically: build a test set, score with exact/structured checks and an LLM-as-judge, and track quality across prompt or model changes instead of guessing. | ⬜ Not started | — | — | — |
 | Make LLM apps responsive and affordable: stream responses token-by-token, use prompt caching for repeated context, count tokens, and choose models by cost/quality. | ⬜ Not started | — | — | — |
@@ -76,7 +76,7 @@
 
 | Project | Score | Understanding | Reviewed | Feedback |
 |---|---|---|---|---|
-| Set up continuous integration for an ML project with GitHub Actions: run tests, lint, and a small model-quality check on every push so regressions are caught automatically. | ⬜ Not started | — | — | — |
+| Set up continuous integration for an ML project with GitHub Actions: run tests, lint, and a small model-quality check on every push so regressions are caught automatically. | ⬜ Not started | ❌ Failed | 2026-10-27 | [→](https://github.com/techmonster-dev-org/tm-student-vrboddhula-ai-ml-python/issues/5) |
 | Version large datasets and model artifacts with DVC alongside git, so an experiment ties code + data + model together and is fully reproducible. | ⬜ Not started | — | — | — |
 | Track ML experiments with MLflow: log parameters, metrics, and artifacts; compare runs; and make results reproducible instead of lost in notebooks. | ⬜ Not started | — | — | — |
 | Wrap a trained model behind a FastAPI prediction endpoint: validate input, load the model once at startup, return predictions, and handle bad input gracefully. | ⬜ Not started | — | — | — |
