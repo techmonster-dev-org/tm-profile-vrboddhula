@@ -13,6 +13,7 @@
 | C++ From Zero (Absolute Beginner to Modern C++) | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./cpp-from-zero/README.md) |
 | Data Structures & Algorithms in C++ (Interview-Grade) | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./dsa-cpp/README.md) |
 | Frontend Engineering | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./frontend/README.md) |
+| HFT & Low-Latency Engineering in C++ | [░░░░░░░░░░░░░░░] 0% | 🔵 On Track | [→ Full breakdown](./hft-low-latency/README.md) |
 
 ## Recent Verified Projects
 
