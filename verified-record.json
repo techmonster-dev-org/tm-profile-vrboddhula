@@ -1,6 +1,6 @@
 {
   "student": "vrboddhula",
-  "generatedAt": "2026-10-27T02:02:01.5857265Z",
+  "generatedAt": "2026-10-27T02:04:55.4777309Z",
   "verifiedBy": "techmonster-dev",
   "tracks": [
     {
@@ -98,6 +98,14 @@
       "status": "on-track",
       "verifiedCount": 0,
       "detailUrl": "./python-web/verified-record.json"
+    },
+    {
+      "track": "quant-trader",
+      "trackTitle": "Quant Trading — Mental Math, Probability & Market-Making",
+      "progressPct": 0,
+      "status": "on-track",
+      "verifiedCount": 0,
+      "detailUrl": "./quant-trader/verified-record.json"
     }
   ],
   "manualEntries": []
