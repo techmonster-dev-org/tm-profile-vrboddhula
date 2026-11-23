@@ -1,6 +1,6 @@
 # Frontend Engineering — Full Track Record
 
-**vrboddhula** · [← Back to profile](../README.md) · Updated 2026-11-22
+**vrboddhula** · [← Back to profile](../README.md) · Updated 2026-11-23
 
 ## Progress
 
@@ -10,97 +10,97 @@
 
 | Project | Score | Understanding | Reviewed | Feedback |
 |---|---|---|---|---|
-| Portfolio homepage written in Markdown | ⬜ Not started | — | — | — |
 | Clone + commit via the VS Code Source Control panel | ⬜ Not started | — | — | — |
 | Push your first repo to GitHub | ⬜ Not started | ❌ Failed | 2026-10-27 | [→](https://github.com/techmonster-dev-org/tm-student-vrboddhula-frontend/issues/3) |
 | Create a `work/README.md` personal page | ⬜ Not started | ❌ Failed | 2026-10-27 | [→](https://github.com/techmonster-dev-org/tm-student-vrboddhula-frontend/issues/2) |
+| Build a folder structure + `work/README.md` | ⬜ Not started | — | — | — |
 | Create notes + demo screen recording | ⬜ Not started | ❌ Failed | 2026-10-27 | [→](https://github.com/techmonster-dev-org/tm-student-vrboddhula-frontend/issues/1) |
 | Repo with a branch workflow demo | ⬜ Not started | — | — | — |
-| Build a folder structure + `work/README.md` | ⬜ Not started | — | — | — |
+| Portfolio homepage written in Markdown | ⬜ Not started | — | — | — |
 
 ## HTML & CSS
 
 | Project | Score | Understanding | Reviewed | Feedback |
 |---|---|---|---|---|
-| Profile + social links layout | ⬜ Not started | — | — | — |
-| 3x3 photo gallery | ⬜ Not started | — | — | — |
-| Simple Tailwind page | ⬜ Not started | — | — | — |
 | Tailwind navbar + hero | ⬜ Not started | — | — | — |
-| Responsive landing page | ⬜ Not started | — | — | — |
 | Styled resume page | ⬜ Not started | — | — | — |
-| Pricing page | ⬜ Not started | — | — | — |
-| Button hover animation | ⬜ Not started | — | — | — |
-| Personal bio page | ⬜ Not started | — | — | — |
-| Contact form | ⬜ Not started | — | — | — |
-| Dark/light theme toggle | ⬜ Not started | — | — | — |
 | Custom color theme | ⬜ Not started | — | — | — |
+| Contact form | ⬜ Not started | — | — | — |
+| 3x3 photo gallery | ⬜ Not started | — | — | — |
+| Button hover animation | ⬜ Not started | — | — | — |
+| Dark/light theme toggle | ⬜ Not started | — | — | — |
+| Simple Tailwind page | ⬜ Not started | — | — | — |
+| Pricing page | ⬜ Not started | — | — | — |
+| Responsive landing page | ⬜ Not started | — | — | — |
+| Profile + social links layout | ⬜ Not started | — | — | — |
+| Personal bio page | ⬜ Not started | — | — | — |
 
 ## JavaScript Fundamentals
 
 | Project | Score | Understanding | Reviewed | Feedback |
 |---|---|---|---|---|
-| Movie search (API) | ⬜ Not started | — | — | — |
-| Password generator | ⬜ Not started | — | — | — |
 | Stopwatch | ⬜ Not started | — | — | — |
-| Notes app | ⬜ Not started | — | — | — |
-| Portfolio website | ⬜ Not started | — | — | — |
-| Data visualization dashboard | ⬜ Not started | — | — | — |
-| Counter with save history | ⬜ Not started | — | — | — |
-| Todo list (localStorage) | ⬜ Not started | — | — | — |
-| Image slider | ⬜ Not started | — | — | — |
-| Dictionary app (API) | ⬜ Not started | — | — | — |
-| Weather app (public API) | ⬜ Not started | — | — | — |
-| Event propagation demo | ⬜ Not started | — | — | — |
-| Random quote generator | ⬜ Not started | — | — | — |
-| User preferences app | ⬜ Not started | — | — | — |
-| Digital clock | ⬜ Not started | — | — | — |
-| BMI calculator | ⬜ Not started | — | — | — |
-| Calculator | ⬜ Not started | — | — | — |
-| Expense tracker | ⬜ Not started | — | — | — |
-| Typing test app | ⬜ Not started | — | — | — |
-| Drag & drop todo board | ⬜ Not started | — | — | — |
-| Search with debounce | ⬜ Not started | — | — | — |
-| Color flipper | ⬜ Not started | — | — | — |
 | Quiz app | ⬜ Not started | — | — | — |
+| Typing test app | ⬜ Not started | — | — | — |
+| Todo list (localStorage) | ⬜ Not started | — | — | — |
+| Data visualization dashboard | ⬜ Not started | — | — | — |
+| Weather app (public API) | ⬜ Not started | — | — | — |
+| Image slider | ⬜ Not started | — | — | — |
+| Search with debounce | ⬜ Not started | — | — | — |
+| Drag & drop todo board | ⬜ Not started | — | — | — |
+| Color flipper | ⬜ Not started | — | — | — |
+| User preferences app | ⬜ Not started | — | — | — |
+| Expense tracker | ⬜ Not started | — | — | — |
+| Movie search (API) | ⬜ Not started | — | — | — |
+| Calculator | ⬜ Not started | — | — | — |
+| Portfolio website | ⬜ Not started | — | — | — |
+| Event propagation demo | ⬜ Not started | — | — | — |
+| BMI calculator | ⬜ Not started | — | — | — |
+| Digital clock | ⬜ Not started | — | — | — |
+| Password generator | ⬜ Not started | — | — | — |
+| Counter with save history | ⬜ Not started | — | — | — |
+| Notes app | ⬜ Not started | — | — | — |
+| Random quote generator | ⬜ Not started | — | — | — |
+| Dictionary app (API) | ⬜ Not started | — | — | — |
 
 ## TypeScript
 
 | Project | Score | Understanding | Reviewed | Feedback |
 |---|---|---|---|---|
+| Rebuild quiz app in TS | ⬜ Not started | — | — | — |
+| Portfolio rebuild in TS | ⬜ Not started | — | — | — |
+| TS utility functions library | ⬜ Not started | — | — | — |
+| Rebuild expense tracker in TS | ⬜ Not started | — | — | — |
 | Convert JS Calculator to TS | ⬜ Not started | — | — | — |
-| Weather app in TS | ⬜ Not started | — | — | — |
 | Form validation with TS | ⬜ Not started | — | — | — |
+| TypeScript Todo App | ⬜ Not started | — | — | — |
 | API fetch + TS typing | ⬜ Not started | — | — | — |
 | Data types playground | ⬜ Not started | — | — | — |
-| Rebuild quiz app in TS | ⬜ Not started | — | — | — |
-| TypeScript Todo App | ⬜ Not started | — | — | — |
-| TS utility functions library | ⬜ Not started | — | — | — |
-| Portfolio rebuild in TS | ⬜ Not started | — | — | — |
-| Rebuild expense tracker in TS | ⬜ Not started | — | — | — |
+| Weather app in TS | ⬜ Not started | — | — | — |
 
 ## React & Next.js
 
 | Project | Score | Understanding | Reviewed | Feedback |
 |---|---|---|---|---|
-| News feed (API) | ⬜ Not started | — | — | — |
-| Movie search | ⬜ Not started | — | — | — |
-| Form builder | ⬜ Not started | — | — | — |
-| Blog dynamic route | ⬜ Not started | — | — | — |
-| First Next.js app | ⬜ Not started | — | — | — |
-| Weather app in Next | ⬜ Not started | — | — | — |
-| Notes app | ⬜ Not started | — | — | — |
-| Accordion | ⬜ Not started | — | — | — |
-| Weather app | ⬜ Not started | — | — | — |
-| GitHub user finder | ⬜ Not started | — | — | — |
-| Image gallery | ⬜ Not started | — | — | — |
 | Tabs UI | ⬜ Not started | — | — | — |
-| Todo list | ⬜ Not started | — | — | — |
-| Counter app | ⬜ Not started | — | — | — |
-| Custom hooks library | ⬜ Not started | — | — | — |
-| First React app | ⬜ Not started | — | — | — |
+| Form builder | ⬜ Not started | — | — | — |
+| News feed (API) | ⬜ Not started | — | — | — |
 | Deploy your app | ⬜ Not started | — | — | — |
-| Recipe finder | ⬜ Not started | — | — | — |
+| First React app | ⬜ Not started | — | — | — |
+| Notes app | ⬜ Not started | — | — | — |
+| Counter app | ⬜ Not started | — | — | — |
+| First Next.js app | ⬜ Not started | — | — | — |
+| Custom hooks library | ⬜ Not started | — | — | — |
+| Weather app | ⬜ Not started | — | — | — |
+| Blog dynamic route | ⬜ Not started | — | — | — |
+| Weather app in Next | ⬜ Not started | — | — | — |
+| Image gallery | ⬜ Not started | — | — | — |
 | Pagination list | ⬜ Not started | — | — | — |
+| Accordion | ⬜ Not started | — | — | — |
+| Recipe finder | ⬜ Not started | — | — | — |
+| GitHub user finder | ⬜ Not started | — | — | — |
+| Todo list | ⬜ Not started | — | — | — |
+| Movie search | ⬜ Not started | — | — | — |
 
 ---
 *Machine-readable proof with commit SHA anchors: [verified-record.json](./verified-record.json)*
